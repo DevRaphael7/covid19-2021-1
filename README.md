@@ -3,7 +3,7 @@
 ## Professor
 ### Edson Melo de Souza
 + e-mail: [prof.edson.melo@gmail.com](mailto:prof.edson.melo@gmail.com) ou [souzaem@uni9.pro.br](mailto:souzaem@uni9.pro.br) 
-+ Currículo acadêmico: [*Lattes*](http://lattes.cnpq.br/2641658716558510)
++ Currículo acadêmico: [*Lattes*: http://lattes.cnpq.br/2641658716558510](http://lattes.cnpq.br/2641658716558510)
 + LinkedIn: [souzaem](https://www.linkedin.com/in/souzaem/)
 + Instagram: [@edsouzowski](https://www.instagram.com/edsouzowski/)
 
