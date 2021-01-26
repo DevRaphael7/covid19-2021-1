@@ -1,4 +1,4 @@
-# covid-2021-1  - Acesso as disciplinas no período emergencial por conta do COVID-19
+# Acesso as disciplinas no período emergencial por conta do COVID-19
 
 ## Professor
 ### Edson Melo de Souza
