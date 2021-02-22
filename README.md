@@ -10,6 +10,7 @@
 ## HORÁRIO
 * **SEGUNDA-FEIRA**
   + **Manhã**
+    + [Arquitetura de Software](https://github.com/EdsonMSouza/474517-arquitetura-de-software)
   + **Noite**
 
 * **TERÇA-FEIRA**
